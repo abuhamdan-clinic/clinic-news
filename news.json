@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "updated": "2026-10-26T20:10:00Z",
+  "sources": {
+    "who":    { "name": "منظمة الصحة العالمية", "badge": "WHO", "scope": "global", "color": "#1F77B4", "url": "https://www.who.int" },
+    "fao":    { "name": "منظمة الأغذية والزراعة", "badge": "FAO", "scope": "global", "color": "#2E8B57", "url": "https://www.fao.org" },
+    "efsa":   { "name": "الهيئة الأوروبية لسلامة الغذاء", "badge": "EFSA", "scope": "global", "color": "#6A4C93", "url": "https://www.efsa.europa.eu" },
+    "fda":    { "name": "هيئة الغذاء والدواء الأمريكية", "badge": "FDA", "scope": "global", "color": "#34495E", "url": "https://www.fda.gov" },
+    "moh_jo": { "name": "وزارة الصحة الأردنية", "badge": "وزارة الصحة", "scope": "local", "color": "#C0392B", "url": "https://www.moh.gov.jo" },
+    "jfda":   { "name": "المؤسسة العامة للغذاء والدواء", "badge": "الغذاء والدواء", "scope": "local", "color": "#E67E22", "url": "https://www.jfda.jo" }
+  },
+  "items": []
+}
