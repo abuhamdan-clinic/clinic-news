@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-26T20:10:00Z",
+  "updated": "2026-10-26T20:22:23Z",
   "sources": {
     "who":    { "name": "منظمة الصحة العالمية", "badge": "WHO", "scope": "global", "color": "#1F77B4", "url": "https://www.who.int" },
     "fao":    { "name": "منظمة الأغذية والزراعة", "badge": "FAO", "scope": "global", "color": "#2E8B57", "url": "https://www.fao.org" },
@@ -9,5 +9,9 @@
     "moh_jo": { "name": "وزارة الصحة الأردنية", "badge": "وزارة الصحة", "scope": "local", "color": "#C0392B", "url": "https://www.moh.gov.jo" },
     "jfda":   { "name": "المؤسسة العامة للغذاء والدواء", "badge": "الغذاء والدواء", "scope": "local", "color": "#E67E22", "url": "https://www.jfda.jo" }
   },
-  "items": []
+  "items": [
+    {"id": "2026-10-23-fda-smoked-sprats-botulism", "date": "2026-10-23", "title": "هيئة الغذاء والدواء الأمريكية تحذّر من أسماك سبرات مدخنة على البارد لاحتمال تلوثها ببكتيريا التسمم الوشيقي", "category": "news", "scope": "global", "source": "fda", "url": "https://www.fda.gov/food/alerts-advisories-safety-information/fda-advises-not-eat-sell-or-serve-cold-smoked-sprats-sold-haifa-smoked-fish-inc", "added": "2026-10-26"},
+    {"id": "2026-10-21-fao-food-safety-world-food-prize", "date": "2026-10-21", "title": "الفاو تؤكد أن سلامة الغذاء ركن أساسي للأمن الغذائي، فالغذاء غير الآمن يُمرض نحو 866 مليون شخص سنويًا", "category": "news", "scope": "global", "source": "fao", "url": "https://www.fao.org/newsroom/detail/world-food-prize-2026-highlights-importance-of-the-right-to-food-safety/en", "added": "2026-10-26"},
+    {"id": "2026-10-20-jfda-olive-presses-inspection", "date": "2026-10-20", "title": "الغذاء والدواء تفحص 155 معصرة زيتون قبل التشغيل وتتيح فحصًا أوليًا مجانيًا لعينات زيت الزيتون", "category": "regulation", "scope": "local", "source": "jfda", "url": "https://www.jfda.jo/AR/ListDetails/%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa_%d8%a7%d9%84%d8%b5%d8%ad%d9%81%d9%8a%d8%a9/1375/141", "added": "2026-10-26"}
+  ]
 }
