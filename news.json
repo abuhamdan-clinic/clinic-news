@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-27T03:56:48Z",
+  "updated": "2026-10-31T04:00:00Z",
   "sources": {
     "who":    { "name": "منظمة الصحة العالمية", "badge": "WHO", "scope": "global", "color": "#1F77B4", "url": "https://www.who.int" },
     "fao":    { "name": "منظمة الأغذية والزراعة", "badge": "FAO", "scope": "global", "color": "#2E8B57", "url": "https://www.fao.org" },
@@ -10,6 +10,7 @@
     "jfda":   { "name": "المؤسسة العامة للغذاء والدواء", "badge": "الغذاء والدواء", "scope": "local", "color": "#E67E22", "url": "https://www.jfda.jo" }
   },
   "items": [
+    {"id": "2026-10-29-fda-infant-formula-standards-update", "date": "2026-10-29", "title": "هيئة الغذاء والدواء الأمريكية تعلن أول تحديث رئيسي لمعايير حليب الرضّع منذ نحو ثلاثين عامًا", "category": "regulation", "scope": "global", "source": "fda", "url": "https://www.hhs.gov/press-room/fda-updates-infant-formula-standards-first-time-30-years.html", "image": "", "added": "2026-10-31"},
     {"id": "2026-10-22-fda-closer-to-zero-cadmium-baby-food", "date": "2026-10-22", "title": "هيئة الغذاء والدواء الأمريكية تقترح حدودًا قصوى للكادميوم في الأغذية المصنّعة للرضّع وصغار الأطفال", "category": "regulation", "scope": "global", "source": "fda", "url": "https://www.fda.gov/food/hfp-constituent-updates/fda-advances-closer-zero-initiative-safeguard-food-children", "image": "", "added": "2026-10-27"},
     {"id": "2026-10-19-fda-lemon-juice-adulteration", "date": "2026-10-19", "title": "فحوص أمريكية لعصير الليمون تكشف غشًّا في 3.6% من العينات، جميعها مستوردة", "category": "news", "scope": "global", "source": "fda", "url": "https://www.fda.gov/food/hfp-constituent-updates/fda-releases-sampling-results-economically-motivated-adulteration-lemon-juice", "image": "", "added": "2026-10-27"},
     {"id": "2026-10-23-fda-smoked-sprats-botulism", "date": "2026-10-23", "title": "هيئة الغذاء والدواء الأمريكية تحذّر من أسماك سبرات مدخنة على البارد لاحتمال تلوثها ببكتيريا التسمم الوشيقي", "category": "news", "scope": "global", "source": "fda", "url": "https://www.fda.gov/food/alerts-advisories-safety-information/fda-advises-not-eat-sell-or-serve-cold-smoked-sprats-sold-haifa-smoked-fish-inc", "image": "", "added": "2026-10-26"},
