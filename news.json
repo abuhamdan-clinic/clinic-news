@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-05T03:58:48Z",
+  "updated": "2026-11-08T03:57:34Z",
   "sources": {
     "who":    { "name": "منظمة الصحة العالمية", "badge": "WHO", "scope": "global", "color": "#1F77B4", "url": "https://www.who.int" },
     "fao":    { "name": "منظمة الأغذية والزراعة", "badge": "FAO", "scope": "global", "color": "#2E8B57", "url": "https://www.fao.org" },
@@ -10,6 +10,8 @@
     "jfda":   { "name": "المؤسسة العامة للغذاء والدواء", "badge": "الغذاء والدواء", "scope": "local", "color": "#E67E22", "url": "https://www.jfda.jo" }
   },
   "items": [
+    {"id": "2026-11-04-fda-cinnamon-lead-update", "date": "2026-11-04", "title": "هيئة الغذاء والدواء الأمريكية توسّع تحذيرها من قرفة مطحونة ملوثة بالرصاص وتضيف علامة تجارية جديدة", "category": "news", "scope": "global", "source": "fda", "url": "https://www.fda.gov/food/alerts-advisories-safety-information/more-ground-cinnamon-products-added-fda-public-health-alert-due-presence-elevated-levels-lead", "image": "https://www.fda.gov/files/cinnamon-10252024.png", "added": "2026-11-08"},
+    {"id": "2026-11-03-fda-toddler-bars-choking", "date": "2026-11-03", "title": "هيئة الغذاء والدواء الأمريكية تحذّر من ألواح خبز طرية للأطفال الصغار لخطر الاختناق بعد سحبها", "category": "news", "scope": "global", "source": "fda", "url": "https://www.fda.gov/food/alerts-advisories-safety-information/fda-advises-consumers-not-buy-or-serve-once-upon-farm-tractor-wheels-organic-toddler-soft-baked-bars", "image": "", "added": "2026-11-08"},
     {"id": "2026-11-02-who-food-profiling-model-consultation", "date": "2026-11-02", "title": "الصحة العالمية تطرح مسودة نموذج لتصنيف الأغذية المصنّعة للتشاور العام حتى 27 تشرين الثاني", "category": "regulation", "scope": "global", "source": "who", "url": "https://www.who.int/news-room/articles-detail/online-public-consultation--draft-integrated-food-profiling-model-for-regulatory-measures", "image": "", "added": "2026-11-05"},
     {"id": "2026-10-29-fda-infant-formula-standards-update", "date": "2026-10-29", "title": "هيئة الغذاء والدواء الأمريكية تعلن أول تحديث رئيسي لمعايير حليب الرضّع منذ نحو ثلاثين عامًا", "category": "regulation", "scope": "global", "source": "fda", "url": "https://www.hhs.gov/press-room/fda-updates-infant-formula-standards-first-time-30-years.html", "image": "", "added": "2026-10-31"},
     {"id": "2026-10-22-fda-closer-to-zero-cadmium-baby-food", "date": "2026-10-22", "title": "هيئة الغذاء والدواء الأمريكية تقترح حدودًا قصوى للكادميوم في الأغذية المصنّعة للرضّع وصغار الأطفال", "category": "regulation", "scope": "global", "source": "fda", "url": "https://www.fda.gov/food/hfp-constituent-updates/fda-advances-closer-zero-initiative-safeguard-food-children", "image": "", "added": "2026-10-27"},
