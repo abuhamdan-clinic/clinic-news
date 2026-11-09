@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-08T03:57:34Z",
+  "updated": "2026-11-09T03:56:40Z",
   "sources": {
     "who":    { "name": "منظمة الصحة العالمية", "badge": "WHO", "scope": "global", "color": "#1F77B4", "url": "https://www.who.int" },
     "fao":    { "name": "منظمة الأغذية والزراعة", "badge": "FAO", "scope": "global", "color": "#2E8B57", "url": "https://www.fao.org" },
@@ -10,6 +10,7 @@
     "jfda":   { "name": "المؤسسة العامة للغذاء والدواء", "badge": "الغذاء والدواء", "scope": "local", "color": "#E67E22", "url": "https://www.jfda.jo" }
   },
   "items": [
+    {"id": "2026-11-04-who-adolescents-physical-inactivity", "date": "2026-11-04", "title": "الصحة العالمية: ربع المراهقين حول العالم لم يمارسوا أي نشاط بدني كافٍ خلال الأسبوع الماضي", "category": "news", "scope": "global", "source": "who", "url": "https://www.who.int/news/item/04-11-2026-one-in-four-adolescents-worldwide-reported-no-active-days-in-the-previous-week", "image": "https://cdn.who.int/media/images/default-source/topics/womens-childrens-and-adolescent-health/adolescent-health/adolescents-in-school.tmb-1200v.jpg?sfvrsn=591d9f76_1", "added": "2026-11-09"},
     {"id": "2026-11-04-fda-cinnamon-lead-update", "date": "2026-11-04", "title": "هيئة الغذاء والدواء الأمريكية توسّع تحذيرها من قرفة مطحونة ملوثة بالرصاص وتضيف علامة تجارية جديدة", "category": "news", "scope": "global", "source": "fda", "url": "https://www.fda.gov/food/alerts-advisories-safety-information/more-ground-cinnamon-products-added-fda-public-health-alert-due-presence-elevated-levels-lead", "image": "https://www.fda.gov/files/cinnamon-10252024.png", "added": "2026-11-08"},
     {"id": "2026-11-03-fda-toddler-bars-choking", "date": "2026-11-03", "title": "هيئة الغذاء والدواء الأمريكية تحذّر من ألواح خبز طرية للأطفال الصغار لخطر الاختناق بعد سحبها", "category": "news", "scope": "global", "source": "fda", "url": "https://www.fda.gov/food/alerts-advisories-safety-information/fda-advises-consumers-not-buy-or-serve-once-upon-farm-tractor-wheels-organic-toddler-soft-baked-bars", "image": "", "added": "2026-11-08"},
     {"id": "2026-11-02-who-food-profiling-model-consultation", "date": "2026-11-02", "title": "الصحة العالمية تطرح مسودة نموذج لتصنيف الأغذية المصنّعة للتشاور العام حتى 27 تشرين الثاني", "category": "regulation", "scope": "global", "source": "who", "url": "https://www.who.int/news-room/articles-detail/online-public-consultation--draft-integrated-food-profiling-model-for-regulatory-measures", "image": "", "added": "2026-11-05"},
