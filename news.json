@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-14T03:57:05Z",
+  "updated": "2026-11-15T03:57:26Z",
   "sources": {
     "who":    { "name": "منظمة الصحة العالمية", "badge": "WHO", "scope": "global", "color": "#1F77B4", "url": "https://www.who.int" },
     "fao":    { "name": "منظمة الأغذية والزراعة", "badge": "FAO", "scope": "global", "color": "#2E8B57", "url": "https://www.fao.org" },
@@ -10,6 +10,8 @@
     "jfda":   { "name": "المؤسسة العامة للغذاء والدواء", "badge": "الغذاء والدواء", "scope": "local", "color": "#E67E22", "url": "https://www.jfda.jo" }
   },
   "items": [
+    {"id": "2026-11-13-who-drc-hunger-crisis", "date": "2026-11-13", "title": "الصحة العالمية ووكالات أممية: رقم قياسي يبلغ 30 مليون شخص سيواجهون انعدام أمن غذائي حاد في الكونغو الديمقراطية مطلع 2027", "category": "news", "scope": "global", "source": "who", "url": "https://www.who.int/news/item/13-11-2026-conflict-and-disease-outbreaks-deepen-dr-congo-s-hunger-crisis-as-record-numbers-are-projected-to-face-acute-food-insecurity", "image": "https://cdn.who.int/media/images/default-source/emergencies-and-disasters/2026---ebola-outbreak---drc/ebola-response-mission-in-kayna-drc.tmb-1200v.jpg?sfvrsn=528e14bc_1", "added": "2026-11-15"},
+    {"id": "2026-11-11-efsa-alternaria-toxins", "date": "2026-11-11", "title": "الهيئة الأوروبية تحدّث تقييمها لسموم فطر ألترناريا في الغذاء وتؤكد أن خمسة منها سامّة للجينات", "category": "recommendation", "scope": "global", "source": "efsa", "url": "https://www.efsa.europa.eu/en/news/alternaria-toxins-food-and-feed-efsa-updates-its-risk-assessment", "image": "https://www.efsa.europa.eu/sites/default/files/styles/social_media_share/public/2026-11/alternaria-food.jpg?h=a141e9ea&itok=Bh96YEdP", "added": "2026-11-15"},
     {"id": "2026-11-14-who-world-diabetes-day-early-action", "date": "2026-11-14", "title": "الصحة العالمية في يوم السكري: أكثر من 40% من المصابين غير مشخّصين، وتدعو إلى التشخيص والرعاية المبكرة", "category": "recommendation", "scope": "global", "source": "who", "url": "https://www.who.int/campaigns/world-diabetes-day/2026", "image": "https://cdn.who.int/media/images/default-source/headquarters/campaigns/world-diabetes-day/2026/shopping-at-the-market.tmb-1200v.jpg?sfvrsn=8f6a860d_3", "added": "2026-11-14"},
     {"id": "2026-11-09-fda-revoke-solvent-color-additives", "date": "2026-11-09", "title": "هيئة الغذاء والدواء الأمريكية تلغي استخدام مذيبات كيميائية في أحبار ملصقات الفواكه وفي استخلاص ملونات الكركم والبابريكا", "category": "regulation", "scope": "global", "source": "fda", "url": "https://www.fda.gov/food/hfp-constituent-updates/fda-revoke-authorizations-uses-certain-substances-color-additives-or-production-color-additives", "image": "", "added": "2026-11-10"},
     {"id": "2026-11-08-jfda-olive-press-bread-dipping-celiac", "date": "2026-11-08", "title": "الغذاء والدواء تُلزم معاصر الزيتون بملصقات تمنع تغميس الخبز في الزيت لحماية مرضى السيلياك من الغلوتين", "category": "regulation", "scope": "local", "source": "jfda", "url": "https://royanews.tv/news/399752", "image": "https://img.royanews.tv/imagechanger/Size728Q70/storage/images/news/20261108/6af07fffc08081794146303.jpg", "added": "2026-11-10"},
