@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-15T03:57:26Z",
+  "updated": "2026-11-17T03:57:11Z",
   "sources": {
     "who":    { "name": "منظمة الصحة العالمية", "badge": "WHO", "scope": "global", "color": "#1F77B4", "url": "https://www.who.int" },
     "fao":    { "name": "منظمة الأغذية والزراعة", "badge": "FAO", "scope": "global", "color": "#2E8B57", "url": "https://www.fao.org" },
@@ -10,6 +10,7 @@
     "jfda":   { "name": "المؤسسة العامة للغذاء والدواء", "badge": "الغذاء والدواء", "scope": "local", "color": "#E67E22", "url": "https://www.jfda.jo" }
   },
   "items": [
+    {"id": "2026-11-12-fda-retail-food-program-standards-2026", "date": "2026-11-12", "title": "هيئة الغذاء والدواء الأمريكية تصدر نسخة 2026 من معايير برامج الرقابة على سلامة الغذاء في محلات البيع والمطاعم", "category": "regulation", "scope": "global", "source": "fda", "url": "https://www.fda.gov/food/hfp-constituent-updates/fda-issues-2026-voluntary-national-retail-food-regulatory-program-standards", "image": "", "added": "2026-11-17"},
     {"id": "2026-11-13-who-drc-hunger-crisis", "date": "2026-11-13", "title": "الصحة العالمية ووكالات أممية: رقم قياسي يبلغ 30 مليون شخص سيواجهون انعدام أمن غذائي حاد في الكونغو الديمقراطية مطلع 2027", "category": "news", "scope": "global", "source": "who", "url": "https://www.who.int/news/item/13-11-2026-conflict-and-disease-outbreaks-deepen-dr-congo-s-hunger-crisis-as-record-numbers-are-projected-to-face-acute-food-insecurity", "image": "https://cdn.who.int/media/images/default-source/emergencies-and-disasters/2026---ebola-outbreak---drc/ebola-response-mission-in-kayna-drc.tmb-1200v.jpg?sfvrsn=528e14bc_1", "added": "2026-11-15"},
     {"id": "2026-11-11-efsa-alternaria-toxins", "date": "2026-11-11", "title": "الهيئة الأوروبية تحدّث تقييمها لسموم فطر ألترناريا في الغذاء وتؤكد أن خمسة منها سامّة للجينات", "category": "recommendation", "scope": "global", "source": "efsa", "url": "https://www.efsa.europa.eu/en/news/alternaria-toxins-food-and-feed-efsa-updates-its-risk-assessment", "image": "https://www.efsa.europa.eu/sites/default/files/styles/social_media_share/public/2026-11/alternaria-food.jpg?h=a141e9ea&itok=Bh96YEdP", "added": "2026-11-15"},
     {"id": "2026-11-14-who-world-diabetes-day-early-action", "date": "2026-11-14", "title": "الصحة العالمية في يوم السكري: أكثر من 40% من المصابين غير مشخّصين، وتدعو إلى التشخيص والرعاية المبكرة", "category": "recommendation", "scope": "global", "source": "who", "url": "https://www.who.int/campaigns/world-diabetes-day/2026", "image": "https://cdn.who.int/media/images/default-source/headquarters/campaigns/world-diabetes-day/2026/shopping-at-the-market.tmb-1200v.jpg?sfvrsn=8f6a860d_3", "added": "2026-11-14"},
