@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-19T03:56:54Z",
+  "updated": "2026-11-22T03:57:14Z",
   "sources": {
     "who":    { "name": "منظمة الصحة العالمية", "badge": "WHO", "scope": "global", "color": "#1F77B4", "url": "https://www.who.int" },
     "fao":    { "name": "منظمة الأغذية والزراعة", "badge": "FAO", "scope": "global", "color": "#2E8B57", "url": "https://www.fao.org" },
@@ -10,6 +10,8 @@
     "jfda":   { "name": "المؤسسة العامة للغذاء والدواء", "badge": "الغذاء والدواء", "scope": "local", "color": "#E67E22", "url": "https://www.jfda.jo" }
   },
   "items": [
+    {"id": "2026-11-19-fao-food-outlook-nov-2026", "date": "2026-11-19", "title": "تقرير الفاو «توقعات الأغذية»: إمدادات السلع الغذائية العالمية كافية عمومًا مع مخاطر متزايدة على الأرز والسكر والزيوت", "category": "news", "scope": "global", "source": "fao", "url": "https://www.fao.org/newsroom/detail/fao-food-outlook--global-food-commodity-supplies-remain-generally-ample--but-risks-are-mounting/en", "image": "https://www.fao.org/media/images/newsroomlibraries/default-album/fonov26cover.jpg?sfvrsn=abf29ce_2", "added": "2026-11-22"},
+    {"id": "2026-11-19-fao-med-dialogues-conflict-food-crises", "date": "2026-11-19", "title": "الفاو تطالب بإدراج الأمن الغذائي في الجهود الدبلوماسية لمواجهة أزمات الغذاء الناتجة عن النزاعات", "category": "news", "scope": "global", "source": "fao", "url": "https://www.fao.org/newsroom/detail/med-dialogues-2026--fao-calls-for-stronger-diplomatic-action-on-conflict-driven-food-crises/en", "image": "https://www.fao.org/media/images/newsroomlibraries/default-album/photo-2026-11-19-15-42-52.jpg?sfvrsn=f27e3adf_6", "added": "2026-11-22"},
     {"id": "2026-11-16-fao-parliamentary-summit-hunger-malnutrition", "date": "2026-11-16", "title": "الفاو تدعو البرلمانيين في قمة نيروبي إلى تشريعات وميزانيات تكافح الجوع وسوء التغذية وتدعم الوجبات المدرسية", "category": "news", "scope": "global", "source": "fao", "url": "https://www.fao.org/newsroom/detail/parliamentarians-urged-to-turn-hunger-commitments-into-action-as-global-summit-opens-in-kenya/en", "image": "https://www.fao.org/media/images/newsroomlibraries/default-album/3rd-global-parliamentary-summit.jpeg?sfvrsn=f8134e0b_2", "added": "2026-11-19"},
     {"id": "2026-11-17-who-obesity-call-to-action-madrid", "date": "2026-11-17", "title": "21 دولة مع الصحة العالمية واليونيسف تتعهد بخفض معدلات السمنة 5% بحلول 2030 في قمة مدريد", "category": "recommendation", "scope": "global", "source": "who", "url": "https://www.who.int/news/item/17-11-2026-leaders-commit-to-accelerate-action-on-obesity-prevention-and-control", "image": "https://cdn.who.int/media/images/default-source/topics/nutrition-and-food/healthy-diet/food-based-dietary-guidelines-exhibition.tmb-1200v.jpg?sfvrsn=b9e64b52_1", "added": "2026-11-18"},
     {"id": "2026-11-16-fda-nac-dietary-supplement-proposed-rule", "date": "2026-11-16", "title": "هيئة الغذاء والدواء الأمريكية تقترح السماح مجددًا بتسويق «إن-أسيتيل سيستئين» كمكمّل غذائي بعد عدم رصد مخاوف تتعلق بسلامته", "category": "regulation", "scope": "global", "source": "fda", "url": "https://www.fda.gov/food/hfp-constituent-updates/fda-issues-proposed-rule-nac-products-dietary-supplements", "image": "", "added": "2026-11-18"},
