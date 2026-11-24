@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-22T03:57:14Z",
+  "updated": "2026-11-24T03:56:38Z",
   "sources": {
     "who":    { "name": "منظمة الصحة العالمية", "badge": "WHO", "scope": "global", "color": "#1F77B4", "url": "https://www.who.int" },
     "fao":    { "name": "منظمة الأغذية والزراعة", "badge": "FAO", "scope": "global", "color": "#2E8B57", "url": "https://www.fao.org" },
@@ -10,6 +10,8 @@
     "jfda":   { "name": "المؤسسة العامة للغذاء والدواء", "badge": "الغذاء والدواء", "scope": "local", "color": "#E67E22", "url": "https://www.jfda.jo" }
   },
   "items": [
+    {"id": "2026-11-19-fda-federal-waters-shellfish", "date": "2026-11-19", "title": "إدارة الغذاء والدواء الأمريكية تطلق صفحة وتقريرًا جديدين حول سلامة المحار المحصود من المياه الفيدرالية", "category": "regulation", "scope": "global", "source": "fda", "url": "https://www.fda.gov/food/hfp-constituent-updates/fda-publishes-new-federal-waters-shellfish-web-page-and-report-harvesting-federal-waters", "image": "", "added": "2026-11-24"},
+    {"id": "2026-11-19-fao-jobs-hunger-poverty-alliance", "date": "2026-11-19", "title": "الفاو: خلق فرص العمل والتنمية الريفية مفتاح مواجهة الجوع الذي طال 645 مليون شخص عام 2025", "category": "news", "scope": "global", "source": "fao", "url": "https://www.fao.org/newsroom/detail/fao-urges-job-creation-and-coordinated-action-to-tackle-hunger-and-poverty/en", "image": "https://www.fao.org/media/images/newsroomlibraries/default-album/xxuf1dmju-12437b0309f576cf1-dd4f-4faf-825f-8b94d87ed88d.jpg?sfvrsn=986acaa7_2", "added": "2026-11-24"},
     {"id": "2026-11-19-fao-food-outlook-nov-2026", "date": "2026-11-19", "title": "تقرير الفاو «توقعات الأغذية»: إمدادات السلع الغذائية العالمية كافية عمومًا مع مخاطر متزايدة على الأرز والسكر والزيوت", "category": "news", "scope": "global", "source": "fao", "url": "https://www.fao.org/newsroom/detail/fao-food-outlook--global-food-commodity-supplies-remain-generally-ample--but-risks-are-mounting/en", "image": "https://www.fao.org/media/images/newsroomlibraries/default-album/fonov26cover.jpg?sfvrsn=abf29ce_2", "added": "2026-11-22"},
     {"id": "2026-11-19-fao-med-dialogues-conflict-food-crises", "date": "2026-11-19", "title": "الفاو تطالب بإدراج الأمن الغذائي في الجهود الدبلوماسية لمواجهة أزمات الغذاء الناتجة عن النزاعات", "category": "news", "scope": "global", "source": "fao", "url": "https://www.fao.org/newsroom/detail/med-dialogues-2026--fao-calls-for-stronger-diplomatic-action-on-conflict-driven-food-crises/en", "image": "https://www.fao.org/media/images/newsroomlibraries/default-album/photo-2026-11-19-15-42-52.jpg?sfvrsn=f27e3adf_6", "added": "2026-11-22"},
     {"id": "2026-11-16-fao-parliamentary-summit-hunger-malnutrition", "date": "2026-11-16", "title": "الفاو تدعو البرلمانيين في قمة نيروبي إلى تشريعات وميزانيات تكافح الجوع وسوء التغذية وتدعم الوجبات المدرسية", "category": "news", "scope": "global", "source": "fao", "url": "https://www.fao.org/newsroom/detail/parliamentarians-urged-to-turn-hunger-commitments-into-action-as-global-summit-opens-in-kenya/en", "image": "https://www.fao.org/media/images/newsroomlibraries/default-album/3rd-global-parliamentary-summit.jpeg?sfvrsn=f8134e0b_2", "added": "2026-11-19"},
